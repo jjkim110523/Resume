@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![프로필이미지](http://github.com/jjkim110523/Resume/images/tmp_profile.jpeg)
+![프로필이미지](https://github.com/jjkim110523/Resume/blob/master/images/tmp_profile.jpeg?raw=true)
       
 - 이름: 김진수
 - 군필여부: 현 병역특례 복무중 (2급 현역), 2020.09.16 전역예정
