@@ -37,4 +37,4 @@
 - Python - Flask
 
 ## 프로젝트 이력
-- Telegram Chatbot "Commelier.ML"[!https://t.me/CommelierML_bot]
+- Telegram Chatbot ["Commelier.ML"](https://t.me/CommelierML_bot)
