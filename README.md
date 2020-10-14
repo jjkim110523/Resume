@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/jjkim110523/Resume/blob/master/images/tmp_profile.jpeg?raw=true)
+![프로필이미지](https://github.com/jjkim110523/Resume/blob/master/images/기본증명.jpeg?raw=true)
       
 - 이름: 김진수
 - 군필여부: 제 1 보병 사단 병장 만기 전역(2014.01.09)
